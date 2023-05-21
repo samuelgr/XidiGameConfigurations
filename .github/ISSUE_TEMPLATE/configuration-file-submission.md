@@ -8,16 +8,5 @@ assignees: ''
 ---
 
 ```ini
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-; (application/game name here)
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-; Xidi Version:     (which Xidi version did you use for testing?)
-; Xidi Form:        (which form of Xidi does this game use? - see instructions)
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-; Authors:          (name/GitHub username for anyone who contributed)
-; Last Modified:    (last edit date in M/D/YYYY)
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-
-(paste the rest of your configuration file here)
+(paste your configuration file here - see instructions in README.md)
 ```
